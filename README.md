@@ -11,7 +11,7 @@ Set up a SWAT model for the study area with assigning a reservoir/s.
 
 Load all the required input files for the ROSMan, as described in the user’s manual, in the SWAT “TxtInOut” folder. 
 
-Placed the executable file of the ROSMan (rosman.exe) also in the “TxtInOut” folder. 
+Place the executable file of the ROSMan (rosman.exe) also in the “TxtInOut” folder. 
 
 Run the model by clicking the rosman.exe file.
 
