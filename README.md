@@ -18,6 +18,7 @@ Run the model by clicking the rosman.exe file.
 
 # Contact
 Jayandra P Shrestha
+
 shresthajayandra@gmail.com
 
 Citation: Shrestha, J. P. (2021). "Development and application of a SWAT hydropower routine for flow, sediment, and energy management." PhD Thesis, University of Canterbury, Christchurch, New Zealand.
